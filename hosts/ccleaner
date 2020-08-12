@@ -1,12 +1,8 @@
 # [CCleaner Telemetry]
-0.0.0.0 www.ccleaner.com
-0.0.0.0 license.piriform.com
-# Avast services
-0.0.0.0 stats.avast.com
-0.0.0.0 ncc.avast.com.edgesuite.net
-0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 analytics.ns1.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 license.piriform.com
+0.0.0.0 www.ccleaner.com
 0.0.0.0 shepherd.ff.avast.concc.avast.com
+0.0.0.0 ncc.avast.com.edgesuite.net
 0.0.0.0 ip-info.ff.avast.com
