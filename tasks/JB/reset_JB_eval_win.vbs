@@ -39,5 +39,3 @@ oFs.DeleteFile sJBDataFolder + "\bl"
 oFs.DeleteFile sJBDataFolder + "\crl"
 oFs.DeleteFile sJBDataFolder + "\PermanentUserId"
 oFs.DeleteFile sJBDataFolder + "\PermanentDeviceId"
-
-MsgBox "done"
