@@ -9,7 +9,7 @@
       <StartBoundary>2000-01-01T20:00:00</StartBoundary>
       <Enabled>true</Enabled>
       <ScheduleByDay>
-        <DaysInterval>5</DaysInterval>
+        <DaysInterval>27</DaysInterval>
       </ScheduleByDay>
     </CalendarTrigger>
   </Triggers>
